@@ -6,19 +6,20 @@ I'm a second-year Information Technology student at **New Era University**, pass
 ## 🎓 Certifications
 Here are some of the certifications I have earned:
 
-- [SQL and Relational Databases 101](#)  
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5f4cf46d322943109162b825538d7594)  
 - [Oracle Cloud Infrastructure Learning Subscription](#)  
 - [Oracle Data Platform Foundations Associate](#)  
 - [OCI AI Foundations Associate (2025)](#)  
 
 ## 💻 Skills
 - **Programming & Databases:** SQL, Web Development, Cybersecurity fundamentals  
-- **Tools & Platforms:** Oracle Cloud, Git, GitHub  
+- **Tools & Platforms:** IBM Cloud, Git, GitHub  
 - **Other Interests:** Singing, Playing Piano, Member of University Choir  
 
 ## 📫 Contact Me
-- **Email:** your.email@example.com  
-- **Phone:** +63XXXXXXXXXX  
+- **Email:** janneogloria22@gmail.com  
+- **Phone:** 0945 471 8967
+- **LinkedIn:** [Jan-Neo Gloria](www.linkedin.com/in/jan-neo-gloria-107820363)
 
 ---
 
