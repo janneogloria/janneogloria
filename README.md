@@ -19,7 +19,7 @@ Here are some of the certifications I have earned:
 ## 📫 Contact Me
 - **Email:** janneogloria22@gmail.com  
 - **Phone:** 0945 471 8967
-- **LinkedIn:** [Jan-Neo Gloria](www.linkedin.com/in/jan-neo-gloria-107820363)
+- **LinkedIn:** [Jan-Neo Gloria](https://www.linkedin.com/in/jan-neo-gloria-107820363/)
 
 ---
 
