@@ -8,7 +8,7 @@ Here are some of the certifications I have earned:
 
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5f4cf46d322943109162b825538d7594)  
 - [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2019B7B33BB6DA9F66C27FC2538A81DB56BA1E51BF2D3BA432D906FC263FAFA5)  
-- [Oracle Data Platform Foundations Associate](#)  
+- [Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A6CEEA77A97C280A9D5EBDC60A691E8154E4C70613FB9A60BE33ABC3815F7CDD)  
 - [OCI AI Foundations Associate (2025)](#)  
 
 ## 💻 Skills
