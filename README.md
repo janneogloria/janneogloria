@@ -40,8 +40,8 @@ _New Era University_
 ---
 
 ## Contact Me
-- 💼 LinkedIn: [Jan-Neo Gloria](https://www.linkedin.com/in/jan-neo-gloria-107820363/)
-- 📧 Email: janneogloria22@gmail.com  
+-  LinkedIn: [Jan-Neo Gloria](https://www.linkedin.com/in/jan-neo-gloria-107820363/)
+-  Email: janneogloria22@gmail.com  
 
 ---
 
